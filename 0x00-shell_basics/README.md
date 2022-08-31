@@ -1,1 +1,1 @@
-‘Delete directory’
+‘delete directory’
