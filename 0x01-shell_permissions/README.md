@@ -1,1 +1,1 @@
-‘script to change user’
+‘script to print effective user’
