@@ -1,1 +1,1 @@
-‘script to mirror commands’
+‘script for directories’
