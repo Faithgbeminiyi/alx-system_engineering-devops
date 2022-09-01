@@ -1,1 +1,1 @@
-‘script to set permission’
+‘script for permission’
