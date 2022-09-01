@@ -1,1 +1,1 @@
-script for list
+ script prints file type
