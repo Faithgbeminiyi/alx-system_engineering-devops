@@ -1,1 +1,1 @@
-‘script to print group’
+‘script to change owner’
