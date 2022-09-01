@@ -1,1 +1,1 @@
-‘script for directories’
+‘create directories’
