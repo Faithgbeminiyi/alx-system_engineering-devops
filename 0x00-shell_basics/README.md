@@ -1,1 +1,1 @@
- script prints file type
+script to link
