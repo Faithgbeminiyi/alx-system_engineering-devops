@@ -1,1 +1,1 @@
-‘script that changes working directory to previous one’
+script for list
