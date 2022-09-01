@@ -1,1 +1,1 @@
-‘script to print effective user’
+‘script to print group’
