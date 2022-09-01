@@ -1,1 +1,1 @@
-‘script for permission’
+‘script to mirror commands’
